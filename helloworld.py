@@ -28,5 +28,5 @@ if __name__ == "__main__":
     print(f"The sum of {num1} and {num2} is: {sum_result}") # Expected: The sum of 10 and 5 is: 15
     print("-" * 20)
 
-    # You can add more test cases or different types of code here as well. This is getting really interesting. wow. 
+    # You can add more test cases or different types of code here. SSH to git test. 
     print("Repository setup successful! This is your first code.")
